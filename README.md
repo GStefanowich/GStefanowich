@@ -26,7 +26,7 @@ To remedy this problem when I got into game modding I started open sourcing my m
   - [Forecaster Texts](https://github.com/GStefanowich/SDV-Forecaster) (for [Stardew Valley](https://store.steampowered.com/app/413150))
   - [NotFarFromTheTree](https://github.com/GStefanowich/SDV-NFFTT) (for [Stardew Valley](https://store.steampowered.com/app/413150))
 
-### My person computer
+### My personal computer
 
 I'm an avid Linux user, I'm currently using Ubuntu with the XFCE Desktop Environment.
 
