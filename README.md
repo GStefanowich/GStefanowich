@@ -25,6 +25,7 @@ To remedy this problem when I got into game modding I started open sourcing my m
   - [Scanning](https://github.com/GStefanowich/RW-Scanning) (for [Rimworld](https://store.steampowered.com/app/294100))
   - [Forecaster Texts](https://github.com/GStefanowich/SDV-Forecaster) (for [Stardew Valley](https://store.steampowered.com/app/413150))
   - [NotFarFromTheTree](https://github.com/GStefanowich/SDV-NFFTT) (for [Stardew Valley](https://store.steampowered.com/app/413150))
+  - [Json Extensions](https://github.com/GStefanowich/json-extensions) (A C# Extension Library)
 
 ### My personal computer
 
@@ -49,4 +50,5 @@ I mainly develop on [Rider](https://www.jetbrains.com/rider/) or [IntelliJ](http
 ### Some other sites
 - 🐦 [Twitter](https://twitter.com/GStefanowich)
 - 💨 [Steam](https://steamcommunity.com/id/theelm/)
+- ⏺️ [Twitch](https://www.twitch.tv/TheElm)
 - ☕ [Ko-fi](https://ko-fi.com/theelm)
