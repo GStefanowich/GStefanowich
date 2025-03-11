@@ -63,7 +63,6 @@ I mainly develop on [Rider](https://www.jetbrains.com/rider/), [IntelliJ](https:
 
 ### Some other sites
 - [![Bluesky](https://img.shields.io/badge/g.stefanowi.ch-%23c7cdd6.svg?style=just-the-message&logo=bluesky&logoColor=1185fe)](https://bsky.app/profile/g.stefanowi.ch)
-- [![X.com](https://img.shields.io/badge/@gstefanowich-%23000000.svg?style=just-the-message&logo=x&logoColor=ffffff)](https://x.com/GStefanowich)
 - [![Steam](https://img.shields.io/badge/TheElm-%23000000.svg?style=just-the-message&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/theelm/)
 - [![Twitch](https://img.shields.io/badge/TheElm-%236441a5.svg?style=just-the-message&logo=twitch&logoColor=ffffff)](https://www.twitch.tv/TheElm)
 - [![Ko-fi](https://img.shields.io/badge/TheElm-%23202020.svg?style=just-the-message&logo=kofi&logoColor=ff9cae)](https://ko-fi.com/theelm)
