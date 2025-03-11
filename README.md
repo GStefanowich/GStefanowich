@@ -10,25 +10,36 @@ To remedy this problem when I got into game modding I started open sourcing my m
 
 ### My programming repertoire
 - ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=just-the-message&logo=lua&logoColor=white)
-  - [Uno](https://github.com/GStefanowich/TTS-Uno) (for [Tabletop Simulator](https://store.steampowered.com/app/286160))
+  - [Tabletop Simulator](https://store.steampowered.com/app/286160) games:
+    - [Uno](https://github.com/GStefanowich/TTS-Uno)
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=just-the-message&logo=php&logoColor=white)
-  - [UserGroupBadges](https://github.com/GStefanowich/MW-UserGroupBadges) (for [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki))
-  - [TranslateTweaks](https://github.com/GStefanowich/MW-TranslateTweaks) (for [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki))
-  - [TranslateLua](https://github.com/GStefanowich/MW-TranslateLua) (for [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki))
+  - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) extensions:
+    - [UserGroupBadges](https://github.com/GStefanowich/MW-UserGroupBadges)
+    - [TranslateTweaks](https://github.com/GStefanowich/MW-TranslateTweaks)
+    - [TranslateLua](https://github.com/GStefanowich/MW-TranslateLua)
 - ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=just-the-message&logo=css3&logoColor=white) / ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=just-the-message&logo=SASS&logoColor=white)
 - ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=just-the-message&logo=html5&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=just-the-message&logo=javascript&logoColor=%23F7DF1E)
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=just-the-message&logo=openjdk&logoColor=white)
-  - [Sewing Machine Utils](https://github.com/GStefanowich/MC-Server-Protection) (for [Minecraft](https://www.minecraft.net/))
-  - [Piglin Tweaks](https://github.com/GStefanowich/MC-Nether-Mod) (for [Minecraft](https://www.minecraft.net/))
+  - [Minecraft](https://www.minecraft.net/) mods:
+    - [Sewing Machine Utils](https://github.com/GStefanowich/MC-Server-Protection)
+    - [Piglin Tweaks](https://github.com/GStefanowich/MC-Nether-Mod)
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=just-the-message&logo=mysql&logoColor=white)
 - ![BASH](https://img.shields.io/badge/bash-%23121011.svg?style=just-the-message&logo=gnubash&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=just-the-message&logo=python&logoColor=ffdd54)
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=just-the-message&logo=csharp&logoColor=white)
-  - [Scanning](https://github.com/GStefanowich/RW-Scanning) (for [Rimworld](https://store.steampowered.com/app/294100))
-  - [Forecaster Texts](https://github.com/GStefanowich/SDV-Forecaster) (for [Stardew Valley](https://store.steampowered.com/app/413150))
-  - [NotFarFromTheTree](https://github.com/GStefanowich/SDV-NFFTT) (for [Stardew Valley](https://store.steampowered.com/app/413150))
-  - [Json Extensions](https://github.com/GStefanowich/json-extensions) (A C# Extension Library)
+  - [Rimworld](https://store.steampowered.com/app/294100) mods:
+    - [Scanning](https://github.com/GStefanowich/RW-Scanning)
+  - [Stardew Valley](https://store.steampowered.com/app/413150) mods:
+    - [Forecaster Texts](https://github.com/GStefanowich/SDV-Forecaster)
+    - [NotFarFromTheTree](https://github.com/GStefanowich/SDV-NFFTT)
+  - Libraries:
+    - [Json Extensions](https://github.com/GStefanowich/json-extensions)
+    - [MySql Extensions](https://github.com/GStefanowich/mysql-extensions)
+    - [Service Extensions](https://github.com/GStefanowich/service-extensions)
+    - [String Extensions](https://github.com/GStefanowich/string-extensions)
+    - [Url Extensions](https://github.com/GStefanowich/url-extensions)
+    - [Systemd Lib](https://github.com/GStefanowich/systemd-extensions)
 
 ### My personal computer
 
