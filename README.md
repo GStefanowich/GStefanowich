@@ -52,7 +52,7 @@ I mainly develop on [Rider](https://www.jetbrains.com/rider/), [IntelliJ](https:
 |CPU|AMD Ryzen 9 3900X|
 |Motherboard|Asus Pro WS X570-ACE ATX AM4|
 |RAM|Kingston HyperX Fury 64GB|
-|Video|MSI Ventus XS GeForce GTX 1660 Ti 6GB|
+|Video|Asus Dual GeForce RTX 4060 EVO OC Edition 8GB GDDR6|
 |Case|Corsair 110R ATX|
 |Sound|Asus Xonar DGX 24-bit 96 kHz|
 |Keyboard|Das Keyboard 4 Ultimate|
