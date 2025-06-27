@@ -15,6 +15,7 @@ To remedy this problem when I got into game modding I started open sourcing my m
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=just-the-message&logo=php&logoColor=white)
   - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) extensions:
     - [UserBadges](https://github.com/GStefanowich/MW-UserBadges)
+    - [UserWords](https://github.com/GStefanowich/MW-UserWords)
     - [TranslateTweaks](https://github.com/GStefanowich/MW-TranslateTweaks)
     - [TranslateLua](https://github.com/GStefanowich/MW-TranslateLua)
 - ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=just-the-message&logo=css3&logoColor=white) / ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=just-the-message&logo=SASS&logoColor=white)
